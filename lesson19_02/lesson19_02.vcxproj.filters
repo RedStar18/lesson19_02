@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="EquilateralTriangle">
+      <UniqueIdentifier>{e64d6afe-4c97-4c93-b31f-28d21f123f77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Figure">
+      <UniqueIdentifier>{6596a59b-d497-47e2-9944-72149f23cc75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Parallelogram">
+      <UniqueIdentifier>{ccc11186-1fe2-4367-853b-d8e1995cb643}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quadrangle">
+      <UniqueIdentifier>{6100fff7-4e59-48d9-81e2-c32046d5f012}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rectangle">
+      <UniqueIdentifier>{8b297631-394a-4787-98c8-359bd361128b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rhombus">
+      <UniqueIdentifier>{cfffd2c7-db52-429f-8612-6de4dbab9401}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RightTriangle">
+      <UniqueIdentifier>{ed92eb71-16ae-433c-871d-4165165de81f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Square">
+      <UniqueIdentifier>{97ad574b-cdb3-4afe-8a60-868b47ba72c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Triangle">
+      <UniqueIdentifier>{cc4f055c-0539-4707-a338-1b3f76fbb029}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IsoscelesTriangle">
+      <UniqueIdentifier>{dbcbeea6-ddee-4b64-a0a3-eb17d39e9543}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FigureException">
+      <UniqueIdentifier>{50038019-b267-45ec-9f64-ef615825669b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="lesson19_02.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="EquilateralTriangle.cpp">
+      <Filter>EquilateralTriangle</Filter>
+    </ClCompile>
+    <ClCompile Include="Figure.cpp">
+      <Filter>Figure</Filter>
+    </ClCompile>
+    <ClCompile Include="Triangle.cpp">
+      <Filter>Triangle</Filter>
+    </ClCompile>
+    <ClCompile Include="Square.cpp">
+      <Filter>Square</Filter>
+    </ClCompile>
+    <ClCompile Include="RightTriangle.cpp">
+      <Filter>RightTriangle</Filter>
+    </ClCompile>
+    <ClCompile Include="Rhombus.cpp">
+      <Filter>Rhombus</Filter>
+    </ClCompile>
+    <ClCompile Include="Rectangle.cpp">
+      <Filter>Rectangle</Filter>
+    </ClCompile>
+    <ClCompile Include="Quadrangle.cpp">
+      <Filter>Quadrangle</Filter>
+    </ClCompile>
+    <ClCompile Include="Parallelogram.cpp">
+      <Filter>Parallelogram</Filter>
+    </ClCompile>
+    <ClCompile Include="IsoscelesTriangle.cpp">
+      <Filter>IsoscelesTriangle</Filter>
+    </ClCompile>
+    <ClCompile Include="FigureException.cpp">
+      <Filter>FigureException</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="EquilateralTriangle.h">
+      <Filter>EquilateralTriangle</Filter>
+    </ClInclude>
+    <ClInclude Include="Figure.h">
+      <Filter>Figure</Filter>
+    </ClInclude>
+    <ClInclude Include="Triangle.h">
+      <Filter>Triangle</Filter>
+    </ClInclude>
+    <ClInclude Include="Square.h">
+      <Filter>Square</Filter>
+    </ClInclude>
+    <ClInclude Include="RightTriangle.h">
+      <Filter>RightTriangle</Filter>
+    </ClInclude>
+    <ClInclude Include="Rhombus.h">
+      <Filter>Rhombus</Filter>
+    </ClInclude>
+    <ClInclude Include="Rectangle.h">
+      <Filter>Rectangle</Filter>
+    </ClInclude>
+    <ClInclude Include="Quadrangle.h">
+      <Filter>Quadrangle</Filter>
+    </ClInclude>
+    <ClInclude Include="Parallelogram.h">
+      <Filter>Parallelogram</Filter>
+    </ClInclude>
+    <ClInclude Include="IsoscelesTriangle.h">
+      <Filter>IsoscelesTriangle</Filter>
+    </ClInclude>
+    <ClInclude Include="FigureException.h">
+      <Filter>FigureException</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
