@@ -2,9 +2,9 @@
 #include <iostream>
 #include "FigureException.h"
 
-Square::Square(unsigned int a, unsigned int b, unsigned int c, unsigned int d, unsigned int A, unsigned int B, unsigned int C, unsigned int D) : Quadrangle(a, a, a, a, 90, 90, 90, 90)
+Square::Square(unsigned int a, unsigned int b, unsigned int c, unsigned int d, unsigned int A, unsigned int B, unsigned int C, unsigned int D) : Quadrangle(a, b, c, d, A, B, C, D)
 {
-	if ((a != b) && (b != c) && (c != d) && (d != a))
+	if ((a != b) || (b != c) || (c != d) || (d != a))
 	{
 		throw FigureException("Не все стороны равны другдругу");
 	}

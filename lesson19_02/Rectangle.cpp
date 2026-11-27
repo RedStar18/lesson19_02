@@ -2,9 +2,9 @@
 #include <iostream>
 #include "FigureException.h"
 
-Rectangle::Rectangle(unsigned int a, unsigned int b, unsigned int c, unsigned int d, unsigned int A, unsigned int B, unsigned int C, unsigned int D) : Quadrangle(a, b, a, b, 90, 90, 90, 90)
+Rectangle::Rectangle(unsigned int a, unsigned int b, unsigned int c, unsigned int d, unsigned int A, unsigned int B, unsigned int C, unsigned int D) : Quadrangle(a, b, c, d, A, B, C, D)
 {
-	if ((a != c) && (b != d))
+	if ((a != c) || (b != d))
 	{
 		throw FigureException("Стороны a,c и b,d попарно не ровны другдругу");
 	}

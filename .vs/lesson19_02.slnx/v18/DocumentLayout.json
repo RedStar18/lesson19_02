@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "F:\\VS 2026\\lesson19_02\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EDDB6659-CF4D-4DDE-B76F-72D61A90EF62}|lesson19_02\\lesson19_02.vcxproj|F:\\VS 2026\\lesson19_02\\lesson19_02\\Square.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDDB6659-CF4D-4DDE-B76F-72D61A90EF62}|lesson19_02\\lesson19_02.vcxproj|solutionrelative:lesson19_02\\Square.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDB6659-CF4D-4DDE-B76F-72D61A90EF62}|lesson19_02\\lesson19_02.vcxproj|F:\\VS 2026\\lesson19_02\\lesson19_02\\Rhombus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDDB6659-CF4D-4DDE-B76F-72D61A90EF62}|lesson19_02\\lesson19_02.vcxproj|solutionrelative:lesson19_02\\Rhombus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDB6659-CF4D-4DDE-B76F-72D61A90EF62}|lesson19_02\\lesson19_02.vcxproj|F:\\VS 2026\\lesson19_02\\lesson19_02\\Rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDDB6659-CF4D-4DDE-B76F-72D61A90EF62}|lesson19_02\\lesson19_02.vcxproj|solutionrelative:lesson19_02\\Rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDB6659-CF4D-4DDE-B76F-72D61A90EF62}|lesson19_02\\lesson19_02.vcxproj|F:\\VS 2026\\lesson19_02\\lesson19_02\\Parallelogram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDDB6659-CF4D-4DDE-B76F-72D61A90EF62}|lesson19_02\\lesson19_02.vcxproj|solutionrelative:lesson19_02\\Parallelogram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDB6659-CF4D-4DDE-B76F-72D61A90EF62}|lesson19_02\\lesson19_02.vcxproj|F:\\VS 2026\\lesson19_02\\lesson19_02\\EquilateralTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDDB6659-CF4D-4DDE-B76F-72D61A90EF62}|lesson19_02\\lesson19_02.vcxproj|solutionrelative:lesson19_02\\EquilateralTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EDDB6659-CF4D-4DDE-B76F-72D61A90EF62}|lesson19_02\\lesson19_02.vcxproj|F:\\VS 2026\\lesson19_02\\lesson19_02\\lesson19_02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EDDB6659-CF4D-4DDE-B76F-72D61A90EF62}|lesson19_02\\lesson19_02.vcxproj|solutionrelative:lesson19_02\\lesson19_02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +39,77 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Square.cpp",
+              "DocumentMoniker": "F:\\VS 2026\\lesson19_02\\lesson19_02\\Square.cpp",
+              "RelativeDocumentMoniker": "lesson19_02\\Square.cpp",
+              "ToolTip": "F:\\VS 2026\\lesson19_02\\lesson19_02\\Square.cpp",
+              "RelativeToolTip": "lesson19_02\\Square.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-27T14:56:50.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rhombus.cpp",
+              "DocumentMoniker": "F:\\VS 2026\\lesson19_02\\lesson19_02\\Rhombus.cpp",
+              "RelativeDocumentMoniker": "lesson19_02\\Rhombus.cpp",
+              "ToolTip": "F:\\VS 2026\\lesson19_02\\lesson19_02\\Rhombus.cpp",
+              "RelativeToolTip": "lesson19_02\\Rhombus.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-27T14:56:37.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cpp",
+              "DocumentMoniker": "F:\\VS 2026\\lesson19_02\\lesson19_02\\Rectangle.cpp",
+              "RelativeDocumentMoniker": "lesson19_02\\Rectangle.cpp",
+              "ToolTip": "F:\\VS 2026\\lesson19_02\\lesson19_02\\Rectangle.cpp",
+              "RelativeToolTip": "lesson19_02\\Rectangle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-27T14:56:30.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Parallelogram.cpp",
+              "DocumentMoniker": "F:\\VS 2026\\lesson19_02\\lesson19_02\\Parallelogram.cpp",
+              "RelativeDocumentMoniker": "lesson19_02\\Parallelogram.cpp",
+              "ToolTip": "F:\\VS 2026\\lesson19_02\\lesson19_02\\Parallelogram.cpp",
+              "RelativeToolTip": "lesson19_02\\Parallelogram.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-27T14:56:02.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EquilateralTriangle.cpp",
+              "DocumentMoniker": "F:\\VS 2026\\lesson19_02\\lesson19_02\\EquilateralTriangle.cpp",
+              "RelativeDocumentMoniker": "lesson19_02\\EquilateralTriangle.cpp",
+              "ToolTip": "F:\\VS 2026\\lesson19_02\\lesson19_02\\EquilateralTriangle.cpp",
+              "RelativeToolTip": "lesson19_02\\EquilateralTriangle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-27T14:55:31.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "lesson19_02.cpp",
               "DocumentMoniker": "F:\\VS 2026\\lesson19_02\\lesson19_02\\lesson19_02.cpp",
               "RelativeDocumentMoniker": "lesson19_02\\lesson19_02.cpp",
               "ToolTip": "F:\\VS 2026\\lesson19_02\\lesson19_02\\lesson19_02.cpp",
               "RelativeToolTip": "lesson19_02\\lesson19_02.cpp",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAswGMAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAGMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-11-22T13:43:29.054Z",
               "EditorCaption": ""
